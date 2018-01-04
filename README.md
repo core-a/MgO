@@ -14,6 +14,7 @@
   * 구현이 덜된듯
 * !(kotlin mvp)[https://github.com/Yalantis/kotlin-mvp-example]
   * 내일은 이거봐야지
+* !(talking-kotlin android app)[https://github.com/talkingkotlin/mobile-app]
 
 
 
